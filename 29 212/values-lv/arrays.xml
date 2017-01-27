@@ -18,7 +18,7 @@
     </string-array>
     <string-array name="bmi_for_adualt">
         <item>Zems</item>
-        <item>Normal</item>
+        <item>Normāls</item>
         <item>Augsts</item>
         <item>Ļoti augsts</item>
     </string-array>
@@ -82,8 +82,8 @@
         <item>VO₂ max</item>
     </string-array>
     <string-array name="hr_sport_new">
-        <item>Viegla</item>
-        <item>Smaga</item>
+        <item>Viegls</item>
+        <item>Smags</item>
         <item>Airobika</item>
         <item>Airobie uzdevumi</item>
         <item>VO₂ maks</item>
@@ -105,7 +105,7 @@
         <item>"If restarting Bluetooth doesn't solve the problem, try rebooting phone."</item>
     </string-array>
     <string-array name="mili_help_title">
-        <item>Is your band charged?</item>
+        <item>Bante ir uzlādēta?</item>
         <item>Is this band paired with another device?</item>
         <item>Try resetting Bluetooth</item>
         <item>Try rebooting your phone</item>
