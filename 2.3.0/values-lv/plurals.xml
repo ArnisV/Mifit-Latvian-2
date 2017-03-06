@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberFoot">
+        <item quantity="other">%s pēdas</item>
+        <item quantity="one">%s Pēdas</item>
+        </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s collas</item>
+        <item quantity="one">%s colla</item>
+        </plurals>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Iezīmēti %1$d objekti</item>
+        <item quantity="one">Iezīmēts %1$d objekts</item>
+        </plurals>
+</resources>
