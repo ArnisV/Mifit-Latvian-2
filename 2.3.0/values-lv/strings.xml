@@ -291,8 +291,8 @@ Jūs nevarat novērtēt, ja jūs esat \ "aptaukojies \" tikai ar ĶMI vērtību.
     <string name="bmi_not_up_standard">Jūsu ĶMI pārsniedz robežu (%s), tāpēc nav ķermeņa tauku attiecību. Jums ir nepieciešams vairāk kustēties. </string>
     <string name="bmr_activity_text">"\"Basal metabolism\" refers to the lowest energy required to maintain basic life activities. Basal metabolic rate is decided by how much energy consumed by muscle mass. People with higher basal metabolic rate doesn't gain weight easily.
 
-Вы можете держать себя в форме при сбалансированном потреблении мяса, рыбы, сои и молочных продуктов для увеличения мышц"</string>
-    <string name="bmr_need_attention_infomation">Ваш уровень метаболизма является %d Cal, люди с низким метаболизмом имеют больше шансов набрать вес и чувствовать себя усталым, попробуйте ходить некоторое время после еды и отдохнуть один раз в неделю.</string>
+You can keep fit and balanced intake of meat, fish, soy products and dairy products to increase muscle mass."</string>
+    <string name="bmr_need_attention_infomation">Your standard basal metabolic is %d Cal, people with low basal metabolic rate is more likely to gain weight and feel tired, try to walk for a while after meal and run once a week.</string>
     <string name="body">Kaklā</string>
     <string name="body_fat">Tauki</string>
     <string name="body_fat_label">Tauku līmenis %s</string>
@@ -345,7 +345,7 @@ Try to keep balanced intake of calcium, and take 15-minute sunbathing and 20-min
     <string name="chest">Krūtis</string>
     <string name="choose_device_please">Izvēlies ierīci</string>
     <string name="choose_weight_manual">Izvēlies svaru</string>
-    <string name="clear_weight_goal">Dzēst mērķi</string>
+    <string name="clear_weight_goal">Notīrīt</string>
     <string name="click_to_bind_device">Pieskaries, lai sapārotu ierīci</string>
     <string name="click_to_measure_heartrate">Pieskaries, lai mērītu pulsu</string>
     <string name="click_to_see_information">Uzsit pa bantes pogu, lai redzētu info</string>
@@ -542,15 +542,15 @@ Try to keep balanced intake of calcium, and take 15-minute sunbathing and 20-min
     <string name="hint_input_xiaomi_uid">Ievadi savu Mi Konta ID</string>
     <string name="history">Vēsture</string>
     <string name="hold_baby_weight">Nosvērt zīdaini</string>
-    <string name="home_deep_sleep">Dziļais miegs</string>
-    <string name="home_sleep">Miegs</string>
+    <string name="home_deep_sleep">Dziļais miegs </string>
+    <string name="home_sleep">Miegs </string>
     <string name="home_total_sleep">Kopējais miegs</string>
     <string name="homepage_item_discover">Meklēšana</string>
     <string name="homepage_item_mine">Profils</string>
     <string name="homepage_item_smartdevice">Paziņojumi</string>
     <string name="homepage_item_status">Statuss</string>
     <string name="how_is_yestoday_sleep">Labi gulēji?</string>
-    <string name="hr_battery_low">Bantes uzlād mazāka par 10%</string>
+    <string name="hr_battery_low">Bantes uzlāde mazāka par 10%</string>
     <string name="hr_delete_title">Dzēst šo ierakstu?</string>
     <string name="hr_dialog_ble">Saglabā Banti savienoru ar Bluetooth</string>
     <string name="hr_dialog_go">Starts</string>
@@ -719,7 +719,7 @@ The data will be saved automatically"</string>
     <string name="logout_title_1">"Jūs nesaņemsiet paziņojumus pēc izrakstīšanās."</string>
     <string name="logout_title_2">Izrakstīties</string>
     <string name="long_set_alert">Bezdarbības paziņojums</string>
-    <string name="long_sit">"Tu vairāk kā 1 stunde neesi pakustējies"</string>
+    <string name="long_sit">"Tu vairāk kā 1 stundu neesi pakustējies"</string>
     <string name="long_sit_alert">Bezdarbības paziņojumi</string>
     <string name="long_sit_alert_interval_tips">%s min.</string>
     <string name="long_sit_alert_start">Sākuma laiks</string>
@@ -810,7 +810,6 @@ mērijumu diapazonu (%s)"</string>
     <string name="mili_setting_vibrate_notify">Mi Bantes paziņojumi</string>
     <string name="mili_setting_vibrate_notify_tips">Rādīt paziņojumus uz telefona, kad bante vibrē</string>
     <string name="mili_settting_mili_nfc">HuaShan</string>
-    <string name="mili_settting_mili_peyto">巢湖手环</string>
     <string name="mili_settting_mili_pro">Mi Bante 2</string>
     <string name="mili_settting_mili_qinling">Qinling Mountains</string>
     <string name="mili_settting_mili_rocky">Amazfit Arc</string>
@@ -852,10 +851,10 @@ mērijumu diapazonu (%s)"</string>
     <string name="more_icon_tips">Skatīt vairāk ikonas</string>
     <string name="move_and_capture">Pārvietot un nofočēt</string>
     <string name="muscle">Muskuļu masa</string>
-    <string name="muscle_activity_text">"\"Muscle mass\" refers to the mass of skeletal and smooth muscles and other muscle tissues contained water.
+    <string name="muscle_activity_text">"\"Muskuļu massa\" refers to the mass of skeletal and smooth muscles and other muscle tissues contained water.
 
 Loss of muscle mass will result in a lower basal metabolism and reduce energy consumption, and you'll gain weight or fall ill more easily. More muscles is helpful to improve basal metabolism so as to reduce body fat"</string>
-    <string name="muscle_low_infomation" formatted="false">"Your standard muscle ratio range should be %s~%s. You still need %s more muscles. Eat healthily and do more exercise. More muscles'll protect you better."</string>
+    <string name="muscle_low_infomation" formatted="false">"Tavas muskuļu massas diapazonam ir jābūt %s~%s. Tev vajag vē %s muskuļu massas. Ēd veselīgi un nodarbojies ar sportu."</string>
     <string name="muscle_low_infomation_novalue" formatted="false">"Your standard muscle ratio range should be %s~%s. You still need more muscles. Eat healthily and do more exercise. More muscles'll protect you better."</string>
     <string name="muscle_need_attention_infomation">"You have a lower muscle ratio. Eat healthily and do more exercise. More muscles'll protect you better"</string>
     <string name="muscle_rate">Muskuļu masa</string>
@@ -864,7 +863,7 @@ Loss of muscle mass will result in a lower basal metabolism and reduce energy co
     <string name="mutex_login_relogin">Atkārtoti pierakstīties</string>
     <string name="mutex_login_title">Bezsaistes paziņojumi</string>
     <string name="name">Vārds</string>
-    <string name="need_attention">%d items need your attention:</string>
+    <string name="need_attention">%d lietām jāpievērš uzmanība:</string>
     <string name="network_error">Neizdodas pieslēgties tīklam.</string>
     <string name="network_request_fail">"Nevarēja iegūt datus"</string>
     <string name="never_reminder">Vairs nerādīt</string>
@@ -881,7 +880,7 @@ Loss of muscle mass will result in a lower basal metabolism and reduce energy co
     <string name="no_body_params_for_age_min">"Can't analyse for people younger than 10 years old"</string>
     <string name="no_body_params_for_height_max">"Can't analyse for people taller than 225 cm"</string>
     <string name="no_body_params_for_height_min">"Can't analyse for people shorter than 100 cm"</string>
-    <string name="no_body_params_for_no_measure">"Couldn't get data"</string>
+    <string name="no_body_params_for_no_measure">"Neizdevās iegūt informāciju"</string>
     <string name="no_device_bind">Ierīces nav pievienotas</string>
     <string name="no_heart_data">Nav pulsa ierakstu</string>
     <string name="no_measure">Nav mērījumu</string>
@@ -985,7 +984,7 @@ Loss of muscle mass will result in a lower basal metabolism and reduce energy co
     <string name="phone_alarm_not_bound">Sapāro Mi Banti, lai saņemtu modinātāja paziņojumus</string>
     <string name="phone_not_bind">Tagad nē</string>
     <string name="phone_number">400-999-9595</string>
-    <string name="physical_state">Physical condition %s</string>
+    <string name="physical_state">Fiziskais stāvoklis %s</string>
     <string name="picker_menu_done">Gatavs</string>
     <string name="play_bfat_tips">Pieskaries, lai uzzinātu vairāk</string>
     <string name="play_miband2">Vairāk par Mi Bante 2</string>
@@ -1430,11 +1429,11 @@ Please contact Zhong An Insurance"</string>
     <string name="saving_family_member">Saglabā…</string>
     <string name="saving_success">Saglabāts</string>
     <string name="scan_label">Ielieciet QRCode laukumā, lai skenētu.</string>
-    <string name="score">Оценка %1$d</string>
+    <string name="score">Novērtējums %1$d</string>
     <string name="score_tips_close">Paslēpt</string>
-    <string name="score_tips_open">Citi</string>
+    <string name="score_tips_open">Vairāk</string>
     <string name="score_unit">Novērtējums</string>
-    <string name="score_very_bad_hint">This information is for reference only. See your doctor for a full consultation</string>
+    <string name="score_very_bad_hint">Šī informācija ir tikai atsaucei. Apmeklējiet ārstu pilnai konsultācijai</string>
     <string name="score_very_good">Lieliski</string>
     <string name="screen_lock_text_tip">Gatavs</string>
     <string name="screen_unlock">Ekrāna atbloķēšana</string>
@@ -1837,14 +1836,14 @@ The measurements which are taken after you just bathed, drank alcohol, or worked
     <string name="weibosdk_toast_unbind_failed">Nevarēja novākt kontu</string>
     <string name="weight_babyfat_measure_failure_hint1">Stand barefoot on the sheet metal of the scale</string>
     <string name="weight_babyfat_measure_failure_hint2">Keep your feet clean and dry</string>
-    <string name="weight_babyfat_measure_failure_title">"Nevarēja iegūt informācij"</string>
+    <string name="weight_babyfat_measure_failure_title">"Nevarēja iegūt informāciju"</string>
     <string name="weight_babyfat_measuring">Mēra…</string>
     <string name="weight_bfs">Tauku līmeņa mērījums</string>
-    <string name="weight_bfs_delete_title">Dzēst rekordu?</string>
+    <string name="weight_bfs_delete_title">Dzēst ierakstu?</string>
     <string name="weight_bfs_device_help">Palīdzība</string>
     <string name="weight_bfs_setting_help">Uzzināt vairāk</string>
     <string name="weight_bfs_settting_mac_address">MAC address</string>
-    <string name="weight_bfs_title">"%s's result"</string>
+    <string name="weight_bfs_title">"%s rezultāti"</string>
     <string name="weight_bfs_unit_jin">Jin (500g)</string>
     <string name="weight_bfs_unit_kg">Metriskā (kg)</string>
     <string name="weight_bfs_unit_pound">Angļu (lbs)</string>
@@ -1878,7 +1877,7 @@ The measurements which are taken after you just bathed, drank alcohol, or worked
     <string name="weight_settings_merge_tips">Sapludināt ierakstus ar mazāk kā 30sek starpību</string>
     <string name="weight_settings_merge_title">Sapludināt vienādos ierakstus</string>
     <string name="weight_settting_mac_address">Mi Svaru MAC adrese</string>
-    <string name="weight_sync_time">%s sinhronizēts</string>
+    <string name="weight_sync_time">Sinhronizēts %s</string>
     <string name="weight_syncing">Sinhronizē svaru datus…</string>
     <string name="weight_title">%s svars</string>
     <string name="weixin">WeChat</string>

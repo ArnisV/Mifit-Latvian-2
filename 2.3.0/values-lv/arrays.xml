@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="bmi_for_adualt">
         <item>Zems</item>
-        <item>Normāls</item>
+        <item>Norma</item>
         <item>Augsts</item>
         <item>Ļoti augsts</item>
     </string-array>
@@ -23,28 +23,28 @@
     </string-array>
     <string-array name="bmi_for_not_chinese">
         <item>Zems</item>
-        <item>Normāls</item>
+        <item>Norma</item>
         <item>Paaugstināts</item>
         <item>Augsts</item>
         <item>Ļoti augsts</item>
     </string-array>
     <string-array name="body_score_leval">
-        <item>Ļoti slikts</item>
-        <item>Slikts</item>
-        <item>Normāls</item>
-        <item>Labs</item>
-        <item>Lielisks</item>
+        <item>Ļoti slikti</item>
+        <item>Slikti</item>
+        <item>Norma</item>
+        <item>Labi</item>
+        <item>Lieliski</item>
     </string-array>
     <string-array name="body_shape_type_array">
-        <item>Kaulains</item>
-        <item>Balanced skinny</item>
-        <item>Skinny muscular</item>
+        <item>Svars par zemu</item>
+        <item>Tievs</item>
+        <item>Maza muskuļu massa</item>
         <item>Pietrūkst kustību</item>
-        <item>Normāls</item>
-        <item>Balanced muscular</item>
+        <item>Norma</item>
+        <item>Sabalansēta musku massa</item>
         <item>Aptaukojies</item>
-        <item>Liekais svars</item>
-        <item>Thick-set</item>
+        <item>Resns</item>
+        <item>Ļoti resns</item>
     </string-array>
     <string-array name="bodyfat_content_leval">
         <item>Ļoti zems</item>
@@ -54,13 +54,13 @@
         <item>Ļoti augsts</item>
     </string-array>
     <string-array name="bone_leval">
-        <item>Nepietiekams</item>
-        <item>Normāls</item>
-        <item>Labs</item>
+        <item>Nepietiekami</item>
+        <item>Norma</item>
+        <item>Labi</item>
     </string-array>
     <string-array name="brm_leval">
-        <item>"Nesasniedzi mērķus"</item>
-        <item>Sasniedzi mērķi</item>
+        <item>"Mērķis nav sasniegts"</item>
+        <item>Mērķis sasniegts</item>
     </string-array>
     <string-array name="colors">
         <item>@string/blue</item>
@@ -100,7 +100,7 @@
     </string-array>
     <string-array name="mili_help_title">
         <item>Bante ir uzlādēta?</item>
-        <item>Is this band paired with another device?</item>
+        <item>Vai šī bante ir sapārotaar kādu citu ierīci?</item>
         <item>mēģini restartēt Bluetooth</item>
         <item>Mēģini restartēttelefonu</item>
     </string-array>
@@ -127,9 +127,9 @@
         <item>Decembris</item>
     </string-array>
     <string-array name="muscle_content_leval">
-        <item>Nepietiekams</item>
-        <item>Normāls</item>
-        <item>Labs</item>
+        <item>Nepietiekami</item>
+        <item>Normāli</item>
+        <item>Labi</item>
     </string-array>
     <string-array name="running_months">
         <item>Janvāris</item>
@@ -156,10 +156,10 @@
     <string-array name="shoes_help_title">
         <item>Pakrati Huami sensoru</item>
         <item>Vai Huami sensors ir uzlādēts?</item>
-        <item>Is this Huami sensor paired with another device?</item>
-        <item>Try resetting Bluetooth</item>
-        <item>Try rebooting your phone</item>
-        <item>How to sync shoes data?</item>
+        <item>Vai sensors ir sapārots ar citu ierīci?</item>
+        <item>Restartē Bluetooth</item>
+        <item>Restartē telefonu</item>
+        <item>Kā sinhronizēt datus?</item>
     </string-array>
     <string-array name="show_body_shape_array">
         <item>Aptaukojies</item>
@@ -167,17 +167,19 @@
         <item>Resns</item>
         <item>"Pietrūkst
 kustību"</item>
-        <item>Sabalansēts</item>
+        <item>Norma</item>
         <item>"Sabalansēti
 muskuļains"</item>
-        <item>Kaulains</item>
+        <item>Tievs</item>
         <item>"Sabalansēti
-kaulains"</item>
-        <item>"Kaulaini
-muskuļains"</item>
+Tievs"</item>
+        <item>"Tievs"</item>
+    <item>Plāns</item>
+        <item>"Maz
+muskuļu"</item>
     </string-array>
     <string-array name="timeline_type">
-        <item>Aktivitātes</item>
+        <item>Aktīvs</item>
         <item>Lēna iešana</item>
         <item>Pastaiga</item>
         <item>Ātra iešana</item>
@@ -195,14 +197,14 @@ muskuļains"</item>
         <item>Apavi</item>
     </string-array>
     <string-array name="visceral_fat_leval">
-        <item>Normāls</item>
-        <item>Augsts</item>
-        <item>Ļoti augsts</item>
+        <item>Norma</item>
+        <item>Daudz</item>
+        <item>Ļoti daudz</item>
     </string-array>
     <string-array name="water_leval">
-        <item>Nepietiekams</item>
-        <item>Normāls</item>
-        <item>Labs</item>
+        <item>Maz</item>
+        <item>Norma</item>
+        <item>Labi</item>
     </string-array>
     <string-array name="wear_type">
         <item>@string/left_hand</item>
@@ -237,41 +239,47 @@ muskuļains"</item>
         <item>Sv.</item>
     </string-array>
     <string-array name="weight_bfs_help_tips">
-        <item>Solis uz svariem, lai pārbaudītu, vai tas parāda tavu svaru. Ja tas parāda akumulatora ikonu, nomainiet baterijas.</item>
+        <item>Uzkāp uz svariem. Ja tas parāda akumulatora ikonu, nomaini tās.</item>
         <item>"If the scale doesn't respond during weigh-in, check if the batteries are installed properly"</item>
         <item>"If the band is charged but the phone can't see it, try restarting phone's Bluetooth."</item>
         <item>"If restarting Bluetooth doesn't solve the problem, try rebooting the phone"</item>
-        </string-array>
+        <item>Katru reizi, kad atver Mi Fit tas automātiski sinhronizēs datus.</item>
+    </string-array>
     <string-array name="weight_bfs_help_title">
         <item>Vai ir palicis pietiekoši uzlāde?</item>
         <item>Baterijas pareizi ieliki?</item>
         <item>Mēģini restartēt Bluetooth</item>
         <item>Mēģini restartēt telefonu</item>
-        </string-array>
+        <item>Kā sinhronizēt datus?</item>
+    </string-array>
     <string-array name="weight_body_figures">
         <item>Tievs</item>
         <item>Normāls</item>
         <item>Liekais svars</item>
-        <item>Aptaukojies I</item>
+        <item>Aptaukojies </item>
+    <item>Resns</item>
     </string-array>
     <string-array name="weight_body_figures_for_child">
+        <item>Tievs</item>
         <item>Normāls</item>
         <item>Liekais svars</item>
         <item>Aptaukojies</item>
+        <item>Resns</item>
     </string-array>
     <string-array name="weight_body_figures_for_not_chinese">
         <item>Tievs</item>
         <item>Normāls</item>
         <item>Liekais svars</item>
-        <item>Aptaukojies I</item>
-        <item>Aptaukojies II</item>
+        <item>Aptaukojies</item>
+        <item>Resns</item>
     </string-array>
     <string-array name="weight_help_tips">
         <item>Step on the scale to check if it shows your weight. If it displays a battery icon, replace the batteries.</item>
         <item>"If the scale doesn't respond during weigh-in, check if the batteries are installed properly."</item>
         <item>"If the band is charged but the phone can't see it, try restarting phone's Bluetooth."</item>
         <item>"If restarting Bluetooth doesn't solve the problem, try rebooting the phone."</item>
-        </string-array>
+        <item>Katru reizi, kad atverat Mi Fit tas automātiski sinhronizēt datus</item>
+    </string-array>
     <string-array name="weight_unit">
         <item>" kg"</item>
         <item>" jin"</item>
@@ -282,24 +290,29 @@ muskuļains"</item>
         <item>@string/weight_bfs_unit_pound</item>
         <item>@string/weight_bfs_unit_jin</item>
     </string-array>
-    <array name="bg_running_gradient_colors">
-        <item>@color/bg_running_gradient_0</item>
-        <item>@color/bg_running_gradient_1</item>
-        <item>@color/bg_running_gradient_2</item>
-        <item>@color/bg_running_gradient_4</item>
-    </array>
-    <string-array name="bg_running_gradient_percents">
-        <item>0</item>
-        <item>0.25</item>
-        <item>0.6</item>
-        <item>1</item>
+    <string-array name="normandy_help_tips">
+        <item>Baterijas kalpošanas ilgums Huami modulī ir 6 mēneši. Ja to izmantojiet ilgāku laiku, tas var būt izlādējies.</item>
+        <item>Сначала выключите Bluetooth, а затем выполните сопряжение с текущим устройством</item>
+        <item>Если по прежнему не находит их, попробуйте перезагрузить Bluetooth</item>
+        <item>Ja Bluetooth restartēšana nepalīdzēja, mēģiniet restartēt telefonu</item>
+    <item>Katru reizi, kad atverat Mi Fit tas automātiski sinhronizēt datus</item>
     </string-array>
-    <array name="lab_gesnsor_lines_color">
-        <item>@color/lab_line_x</item>
-        <item>@color/lab_line_y</item>
-        <item>@color/lab_line_z</item>
-    </array>
-    <array name="lab_ppgesnsor_lines_color">
-        <item>@color/lab_line_ppg</item>
-    </array>
-    </resources>
+    <string-array name="normandy_help_title">
+        <item>Modulisir uzlādēts?</item>
+        <item>Modulis ir sapārots ar citu ierīci?</item>
+        <item>Restartējiet Bluetooth</item>
+        <item>Restartējiet telefonu</item>
+        <item>Kā sinhronizēt datus?</item>
+    </string-array>
+    <string-array name="shoes_place_mode_array">
+        <item>@string/shoes_left_shoe</item>
+        <item>@string/shoes_right_shoe</item>
+        </string-array>
+    <string-array name="weight_help_title">
+    <item>Varbūt izlādējušās baterijas?</item>
+    <item>Baterijas pareizi ieliki?</item>
+    <item>Restatējiet Bluetooth</item>
+    <item>Restartējiet telefonu</item>
+    <item>Kā sinhronizēt datus?</item>
+    </string-array>
+</resources>
