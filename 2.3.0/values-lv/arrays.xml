@@ -29,11 +29,11 @@
         <item>Ļoti augsts</item>
     </string-array>
     <string-array name="body_score_leval">
-        <item>Ļoti slikti</item>
-        <item>Slikti</item>
+        <item>Ļoti slikts</item>
+        <item>Slikts</item>
         <item>Norma</item>
-        <item>Labi</item>
-        <item>Lieliski</item>
+        <item>Labs</item>
+        <item>Lielisks</item>
     </string-array>
     <string-array name="body_shape_type_array">
         <item>Svars par zemu</item>

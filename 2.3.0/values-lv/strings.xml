@@ -542,8 +542,8 @@ Try to keep balanced intake of calcium, and take 15-minute sunbathing and 20-min
     <string name="hint_input_xiaomi_uid">Ievadi savu Mi Konta ID</string>
     <string name="history">Vēsture</string>
     <string name="hold_baby_weight">Nosvērt zīdaini</string>
-    <string name="home_deep_sleep">Dziļais miegs </string>
-    <string name="home_sleep">Miegs </string>
+    <string name="home_deep_sleep">Dziļais miegs\u0009</string>
+    <string name="home_sleep">Miegs \u0009</string>
     <string name="home_total_sleep">Kopējais miegs</string>
     <string name="homepage_item_discover">Meklēšana</string>
     <string name="homepage_item_mine">Profils</string>
@@ -629,7 +629,8 @@ stabili svaru centrā."</string>
     <string name="invalid_name">Nepareizs vārds</string>
     <string name="is_tagging_finish">Beigt šo padarīšanu?</string>
     <string name="kilo_cal">Kal.</string>
-    <string name="kilo_fastest">Ātrākais km: %1$s</string>
+    <string name="kilo_fastest">Ātrākais
+\u0009\u0009\u0009km: %1$s</string>
     <string name="lab_data_missing">Nav datu</string>
     <string name="lab_tagging_fail">Neizdevās</string>
     <string name="lab_upload_cancel">Atcelt</string>
@@ -1468,7 +1469,7 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="setting_weight_british">Angļu (lbs)</string>
     <string name="setting_weight_metric">Metriskā (kg)</string>
     <string name="setting_weight_shijin">Jin (jin=500g)</string>
-    <string name="share">Dalīties</string>
+    <string name="share">Kopīgot</string>
     <string name="share_achieve_goal_equal">Sasniegtais mērķis</string>
     <string name="share_content">Mani treniņu dati</string>
     <string name="share_continue">No vietas</string>
@@ -1477,9 +1478,9 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="share_continue_null">Sasniedz mērķi katru dienu</string>
     <string name="share_continue_rank">99% cilvēku ier priekšā tev, turpini!</string>
     <string name="share_continue_to">Dalīties ar</string>
-    <string name="share_day_deep_sleep">Vid. dziļais miegs</string>
-    <string name="share_day_start_sleep">Vid. aizmigšanas laiks</string>
-    <string name="share_day_stop_sleep">Vid. pamošanās laiks</string>
+    <string name="share_day_deep_sleep">Dziļais miegs</string>
+    <string name="share_day_start_sleep">Aizmigšanas laiks</string>
+    <string name="share_day_stop_sleep">Pamošanās laiks</string>
     <string name="share_deep_sleep">Dziļais miegs</string>
     <string name="share_facebook_label">Facebook</string>
     <string name="share_fail">"Neizdevās padalīties"</string>
@@ -1512,7 +1513,7 @@ You can change the measurement unit manually in the battery section of the scale
     <string name="share_step_last_month_title">Pagājušā mēneša soļi</string>
     <string name="share_step_last_week_title">Nogāju pagājušo nedēļu</string>
     <string name="share_step_month_title">%1$d</string>
-    <string name="share_step_rank">Priekšā %1$s cilvēkiem</string>
+    <string name="share_step_rank">\u0009Priekšā %1$s cilvēkiem</string>
     <string name="share_step_this_month_title">Šomēnes soļu skaits</string>
     <string name="share_step_this_week_title">Nogāji šonedēļ</string>
     <string name="share_step_week_title">Nedēļas noietie soļi</string>
@@ -1702,7 +1703,7 @@ lai saņemtu paziņojumus"</string>
     <string name="third_in">PAKALPOJUMI</string>
     <string name="this_measure">Mērījumu rezultāts</string>
     <string name="this_month">Šomēnes</string>
-    <string name="this_week">Šonedēļ</string>
+    <string name="this_week">\u0009\u0009\u0009\u0009Šonedēļ</string>
     <string name="time">Laiks</string>
     <string name="time_type_title">Izvēlies laika formātu</string>
     <string name="tips_call_permission">Atļaut piekļuvi telefonam</string>
@@ -1720,7 +1721,7 @@ lai saņemtu paziņojumus"</string>
     <string name="title_message">Ziņojumi</string>
     <string name="toast_no_more_data">Nav citu datu</string>
     <string name="toast_user_info_error">Lietotāja informācija ir nepareiza</string>
-    <string name="today">Šodien</string>
+    <string name="today">\u0009\u0009\u0009\u0009\u0009Šodien</string>
     <string name="today_not_sync">Šodien nav sinhronizēts</string>
     <string name="today_sync_failed">Sinhronizācijas kļūda</string>
     <string name="total_record_data">Rekords f%1$d dienas, kopā</string>
