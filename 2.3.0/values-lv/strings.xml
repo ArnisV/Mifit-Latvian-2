@@ -283,16 +283,16 @@ Mēģini sinhtonizēt sākuma lappā."</string>
     <string name="bmi">ĶMI</string>
     <string name="bmi_activity_text">"ĶMI: svars (kg) / augums (m) kvadrātā.
 
-Jūs nevarat novērtēt, ja jūs esat \ "aptaukojies \" tikai ar ĶMI vērtību. Ar standarta ĶMI, cilvēkiem ar vairāk tauku un mazāk muskuļu joprojām var būt aptaukošanās. "</string>
+Jūs nevar novērtēt vai jūs esat \ "aptaukojies \" tikai ar ĶMI vērtību. Ar standarta ĶMI, cilvēkiem ar vairāk tauku un mazāk muskuļu joprojām var būt aptaukošanās. "</string>
     <string name="bmi_need_attention_for_bmi_high">Jūsu ķermeņa tauku attiecība ir normāla </string>
     <string name="bmi_need_attention_for_bmi_high_and_nobodyfat">ĶMI tagad ir augsts, taču nav pieejama ķermeņa tauku datu analizē. ĶMI šeit ir tikai atsauce </string>
     <string name="bmi_need_attention_for_too_low">Pašreizējais ĶMI ir pārāk zems, un nav labs jūsu veselībai. Jums ir nepieciešams, lai uzlabotu dzīves stilu, vairāk ēst un vairāk kustēties, lai saglabātu formu </string>
-    <string name="bmi_need_attention_for_too_low_18">Pašreizējā ĶMI ir pārāk zems. Jums ir nepieciešams pievērst uzmanību svara izmaiņas, uzlabot dzīves stilu, saglabāt sabalansētu uzturu, un uzturēt regulāru darbu un atpūtu </string>
-    <string name="bmi_not_up_standard">Jūsu ĶMI pārsniedz robežu (%s), tāpēc nav ķermeņa tauku attiecību. Jums ir nepieciešams vairāk kustēties. </string>
-    <string name="bmr_activity_text">"\"Basal metabolism\" refers to the lowest energy required to maintain basic life activities. Basal metabolic rate is decided by how much energy consumed by muscle mass. People with higher basal metabolic rate doesn't gain weight easily.
+    <string name="bmi_need_attention_for_too_low_18">Pašreizējā ĶMI ir pārāk zems. Jums ir nepieciešams pievērst uzmanību svara izmaiņām, uzlabot dzīves stilu, saglabāt sabalansētu uzturu, un uzturēt regulāru darbu un atpūtu </string>
+    <string name="bmi_not_up_standard">Jūsu ĶMI pārsniedz robežu (%s), tāpēc nav ķermeņa tauku attiecība. Jums ir nepieciešams vairāk kustēties. </string>
+    <string name="bmr_activity_text">"\"Vielmaiņa\" refers to the lowest energy required to maintain basic life activities. Basal metabolic rate is decided by how much energy consumed by muscle mass. People with higher basal metabolic rate doesn't gain weight easily.
 
 You can keep fit and balanced intake of meat, fish, soy products and dairy products to increase muscle mass."</string>
-    <string name="bmr_need_attention_infomation">Your standard basal metabolic is %d Cal, people with low basal metabolic rate is more likely to gain weight and feel tired, try to walk for a while after meal and run once a week.</string>
+    <string name="bmr_need_attention_infomation">Tavs metabolisma līmenis ir %d Kal, cilvēki ar zemu bazālās vielmaiņas ātrumu, visticamāk, pieņēmās svarā un jūtas noguruši, mēģiniet staigāt pēc ēdienreizes un skriet vienu reizi nedēļā.</string>
     <string name="body">Kaklā</string>
     <string name="body_fat">Tauki</string>
     <string name="body_fat_label">Tauku līmenis %s</string>
